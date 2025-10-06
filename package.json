@@ -28,7 +28,8 @@
     "sonner": "^2.0.6",
     "tailwind-merge": "^3.3.1",
     "tailwindcss-animate": "^1.0.7",
-    "uuid": "^11.1.0"
+    "uuid": "^11.1.0",
+    "yt-search": "^2.10.4"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
