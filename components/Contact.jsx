@@ -52,7 +52,7 @@ export default function Contact() {
           className="text-center mt-10"
         >
           <a
-            href="https://wa.me/6281234567890?text=Halo%2C%20saya%20tertarik%20menggunakan%20jasa%20Anda"
+            href="https://wa.me/6285189063747?text=Halo%2C%20saya%20tertarik%20menggunakan%20jasa%20Anda"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary inline-flex items-center gap-3 px-8 py-4 text-lg"
