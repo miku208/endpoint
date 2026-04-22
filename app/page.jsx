@@ -41,7 +41,7 @@ export default function Home() {
       <Contact />
       
       <footer className="py-8 text-center border-t border-white/10">
-        <p className="text-gray-500 text-sm">© 2025 MikuHost — Built with Next.js & Framer Motion</p>
+        <p className="text-gray-500 text-sm">© 2026 MikuHost</p>
       </footer>
     </main>
   );
