@@ -4,9 +4,9 @@ import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 
 const contacts = [
-  { name: 'WhatsApp', icon: 'fab fa-whatsapp', value: '+62 812 3456 7890', action: 'Chat Now', link: 'https://wa.me/6281234567890?text=Halo%2C%20saya%20tertarik%20menggunakan%20jasa%20Anda', bg: 'bg-green-600' },
-  { name: 'Email', icon: 'far fa-envelope', value: 'mikuhost@mikudev.id', action: 'Send Email', link: 'mailto:mikuhost@mikudev.id', bg: 'bg-blue-600' },
-  { name: 'GitHub', icon: 'fab fa-github', value: '/mikuhost', action: 'View Profile', link: '#', bg: 'bg-gray-700' },
+  { name: 'WhatsApp', icon: 'fab fa-whatsapp', value: '+62 851-8906-3747', action: 'Chat Now', link: 'https://wa.me/6285189063747?text=Halo%2C%20saya%20tertarik%20menggunakan%20jasa%20Anda', bg: 'bg-green-600' },
+  { name: 'Email', icon: 'far fa-envelope', value: 'rembokorup@gmail.com', action: 'Send Email', link: 'mailto: rembokorup@gmail.com', bg: 'bg-blue-600' },
+  { name: 'GitHub', icon: 'fab fa-github', value: '/miku208', action: 'View Profile', link: 'https://github.com/miku208', bg: 'bg-gray-700' },
 ];
 
 export default function Contact() {
