@@ -90,7 +90,7 @@ export default function Hero() {
                 <div className="text-gray-400">{`{`}</div>
                 <div className="text-gray-400 ml-2">status: <span className="text-neon-green">"success"</span>,</div>
                 <div className="text-gray-400 ml-2">bot: <span className="text-neon-blue">"running"</span>,</div>
-                <div className="text-gray-400 ml-2">endpoint: <span className="text-neon-purple">"https://api.mikuhost.id"</span></div>
+                <div className="text-gray-400 ml-2">endpoint: <span className="text-neon-purple">"https://mikuhost.web.id"</span></div>
                 <div className="text-gray-400">{`}`}</div>
               </div>
             </div>
